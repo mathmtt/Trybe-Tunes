@@ -21,3 +21,5 @@ export type SongType = {
   trackName: string,
   previewUrl: string,
 };
+
+// essa pasta foi uma mão na roda, poderiam fazer mais vezes nos projetos haha :)
